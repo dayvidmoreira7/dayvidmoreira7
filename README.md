@@ -1,5 +1,5 @@
 <h1 align="center">Olá, sou Dayvid Moreira</h1>
-<h3 align="center">Tech Lead na [@gyramais](@gyramais)</h3>
+<h3 align="center">Tech Lead na @gyramais</h3>
 
 <h4 align="left">Redes Sociais</h4>
 <p align="left">

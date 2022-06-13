@@ -1,5 +1,18 @@
-<h1 align="center">Olá, sou Dayvid Moreira</h1>
-<h3 align="center">Tech Lead na @gyramais</h3>
+<h3 align="center">
+    Dayvid Moreira - Tech Lead na
+    <a href="https://github.com/gyramais" target="blank">
+        <img align="center" src="https://gyramais.com.br/GyraMarca.png" alt="dayvidmoreira7" height="30" />
+    </a>
+</h3>
+
+<h6>
+    Tenho 23 anos, trabalho com desenvolvimento desde os 16 (iniciei com
+    <br />
+    desenvolvimento de jogos, mais tarde migrei para os aplicativos e websites).
+    <br />
+    <br />
+    Atualmente lidero um dos times de desenvolvimento da Gyramais!
+</h6>
 
 <h4 align="left">Redes Sociais</h4>
 <p align="left">
